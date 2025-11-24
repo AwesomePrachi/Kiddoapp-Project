@@ -21,7 +21,7 @@ Built using React Native (frontend) and Node.js + Express + MongoDB (backend), t
 
 <img width="267" height="541" alt="image" src="https://github.com/user-attachments/assets/f9e97917-a84b-4719-baa1-916128559c28" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-x
+
 <img width="263" height="530" alt="image" src="https://github.com/user-attachments/assets/98e9d487-9b52-4881-a9ec-c17eb7d11a15" />
 
 ---
