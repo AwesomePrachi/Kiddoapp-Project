@@ -64,12 +64,12 @@ Built using React Native (frontend) and Node.js + Express + MongoDB (backend), t
 
 ## Team Members
 
-### **Frontend Developer — Gauri**  
+### **Frontend Developer — Gauri Suryavanshi**  
 - Developed complete React Native UI  
 - Designed quiz screens, navigation, animations, and sound features  
 - Created an intuitive, child-friendly user experience  
 
-### **Backend Developer & Documentation — Anit Patel**  
+### **Backend Developer & Documentation — Prachi Patel**  
 - Built Node.js + Express backend  
 - Implemented authentication, quiz APIs, scoring logic, and MongoDB schema  
 - Developed feedback system  
