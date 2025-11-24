@@ -14,10 +14,10 @@ Built using React Native (frontend) and Node.js + Express + MongoDB (backend), t
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <img width="258" height="536" alt="image" src="https://github.com/user-attachments/assets/e4c2c2a8-a612-4579-ba83-a9bc0bfd43b7" />
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <img width="277" height="546" alt="image" src="https://github.com/user-attachments/assets/e66d6a4e-5d6e-41ba-94d5-67d974846cd3" />
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <img width="272" height="514" alt="image" src="https://github.com/user-attachments/assets/1ea9a11a-aa1f-446f-a969-25c8ced27201" />
 &nbsp;&nbsp;&nbsp;&nbsp;
