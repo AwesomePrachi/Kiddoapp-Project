@@ -7,7 +7,7 @@ Built using React Native (frontend) and Node.js + Express + MongoDB (backend), t
 
 ## App Preview
 
-<img width="272" height="531" alt="image" src="https://github.com/user-attachments/assets/635af3ab-e1dd-4316-8934-01af0f21da70" />
+<img width="272" height="531" alt="image" src="https://github.com/user-attachments/assets/444f3f7f-7528-4008-b710-c652170c911c" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <img width="272" height="531" alt="image" src="https://github.com/user-attachments/assets/976f338c-c00a-4c88-b32e-9be61efcc685" />
