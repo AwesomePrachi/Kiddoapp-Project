@@ -8,19 +8,33 @@ Built using React Native (frontend) and Node.js + Express + MongoDB (backend), t
 ## App Preview
 
 <img width="230" height="411" alt="image" src="https://github.com/user-attachments/assets/52241786-ead4-4ade-9f82-b9894b4f83c5"/>
- &nbsp;&nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
 
 <img width="272" height="531" alt="image" src="https://github.com/user-attachments/assets/976f338c-c00a-4c88-b32e-9be61efcc685" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 <img width="258" height="536" alt="image" src="https://github.com/user-attachments/assets/e4c2c2a8-a612-4579-ba83-a9bc0bfd43b7" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 <img width="277" height="546" alt="image" src="https://github.com/user-attachments/assets/e66d6a4e-5d6e-41ba-94d5-67d974846cd3" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 <img width="272" height="514" alt="image" src="https://github.com/user-attachments/assets/1ea9a11a-aa1f-446f-a969-25c8ced27201" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 <img width="267" height="541" alt="image" src="https://github.com/user-attachments/assets/f9e97917-a84b-4719-baa1-916128559c28" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 <img width="263" height="530" alt="image" src="https://github.com/user-attachments/assets/98e9d487-9b52-4881-a9ec-c17eb7d11a15" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 ---
 
