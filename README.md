@@ -1,4 +1,4 @@
-# KiddoLearn – Cross-Platform Interactive Quiz Learning App
+# KiddoLearn – Interactive Quiz Learning App
 
 KiddoLearn is a cross-platform educational quiz application designed for children to learn in a fun, interactive way.  
 Built using React Native (frontend) and Node.js + Express + MongoDB (backend), the app provides multiple quiz categories, dynamic scoring, sound effects, and a smooth mobile learning experience on both Android and iOS.
