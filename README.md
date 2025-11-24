@@ -43,13 +43,13 @@ Built using React Native (frontend) and Node.js + Express + MongoDB (backend), t
 - **Interactive Sound Controls**  
   Users can play or stop background audio during quizzes.
 
-- ↩️ **Reset / Previous / Next Navigation**  
+- **Reset / Previous / Next Navigation**  
   Smooth question-to-question transitions.
 
-- 🌩️ **Cloud-Ready Backend**  
+- **Cloud-Ready Backend**  
   Quiz data, user data & feedback stored in MongoDB Atlas.
 
-- 🗣️ **Feedback Form**  
+- **Feedback Form**  
   Users can submit comments about their experience.
 
 ---
